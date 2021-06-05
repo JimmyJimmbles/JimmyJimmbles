@@ -1,7 +1,7 @@
 - 👋 Hello human, I am also a human. My name is Jay, but online I go by @JimmyJimmbles || @JayJCodes. 
-- 👀 I am interested in making things that I find fun! 
-- 🌱 I am currently learning GOlang 
-- Dark mode for everything. 
+- 👀 I am interested in making things that I find fun, like robots, AI, and webapps!
+- 🌱 I am currently learning GOlang, python and ML.
+- Dark mode for everything.
 
 I hope you enjoyed your time here!
 
