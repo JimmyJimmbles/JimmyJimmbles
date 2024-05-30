@@ -1,7 +1,7 @@
 - 👋 Ayo! I am Jay, but online I go by @JimmyJimmbles || @JayJCodes. 
 - 👀 I am interested in making things that I find fun, like robots, AI, and webapps!
-- 🌱 I am currently working with/learning Typescript/React, GOlang, Python and ML.
-- Dark mode for everything.
+- 🌱 Fluent in the variety of programming languages and frameworks, I focus on of Typescript, React(its a given i know, but needed it for SEO), MQTT, ROS2, Python, and GO.
+- 🌕 Dark mode for everything.
 
 I hope you enjoyed your time here!
 
